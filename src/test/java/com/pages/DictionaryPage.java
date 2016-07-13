@@ -27,7 +27,7 @@ public class DictionaryPage extends PageObject {
         searchTerms.type(keyword);
     }
 
-    public void lookup_terms() {
+    public void lookup_terms1() {
         lookupButton.click();
     }
 
